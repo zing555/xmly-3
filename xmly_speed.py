@@ -24,7 +24,7 @@ cookiesList = [cookies1, ]   # 多账号准备
 BARK = ''                   # bark服务,自行搜索; secrets可填;形如jfjqxDx3xxxxxxxxSaK的字符串
 SCKEY = ''                  # Server酱的SCKEY; secrets可填
 TG_BOT_TOKEN = '1714049497:AAGAGUWuDrVTLAdbEyuuh_9RdHbi1184qnM'           # telegram bot token 自行申请
-TG_USER_ID = 'lokig2021'             # telegram 用户ID
+TG_USER_ID = 'l1408022439'             # telegram 用户ID
 
 ###################################################
 # 对应方案1:  GitHub action自动运行,此处无需填写;
